@@ -1,0 +1,35 @@
+
+
+
+.card-img-bottom{
+    height:400px;
+    border-bottom-left-radius:50px !important;
+    border-bottom-right-radius:50px !important;
+}
+
+.card-body{
+    background-color:rgb(230, 207, 172);
+    border-top-left-radius:50px !important;
+    border-top-right-radius:50px !important;
+    
+}
+.card-container{
+    max-width:60%;
+    margin:0 auto; /*center the card on the page*/
+    margin-bottom:4rem;/*add space between the cards*/
+    
+}
+
+.card{
+    border-radius:50px !important;
+}
+
+.card-title{
+    font-family: 'PassionOne-Bold', sans-serif;
+    font-size:30px;
+}
+
+.card-text{
+    font-family: 'PassionOne-Regular', sans-serif;
+    font-size:25px;
+}

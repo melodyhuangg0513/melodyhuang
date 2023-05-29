@@ -1,0 +1,95 @@
+/* InterviewFeedback.css */
+.linechart {
+    width: 50%; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    margin: 0 auto; /* Center the chart horizontally */
+    margin-top:20px;
+    margin-bottom:200px;
+  }
+  
+.radarchart{
+    width: 50%; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    margin: 0 auto; /* Center the chart horizontally */
+    margin-top:20px;
+    margin-bottom:500px;
+
+}
+
+.wordcloud {
+    width: 80%;
+    height: 1000px; 
+    margin-top:-100px;
+    margin-left:10px;
+ }
+
+ .Title {
+    font-family: 'PassionOne-Bold', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:120px;
+    margin-bottom:-20px;
+    /* margin-left:400px; */
+    text-align:center;
+    margin-left:30px;
+    margin-top:40px;
+  }
+
+  
+  
+  .Sub-title-time{
+    font-family: 'PassionOne-Regular', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:70px;
+    margin-bottom:10px;
+    /* margin-left:750px; */
+    text-align:center;
+    
+  }
+  .Sub-title-time-des1{
+    font-family: 'PassionOne-Regular', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:30px;
+    margin-bottom:10px;
+    /* margin-left:600px; */
+    text-align:center;
+  }
+  .Sub-title-time-des2{
+    font-family: 'PassionOne-Regular', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:30px;
+    margin-bottom:10px;
+    /* margin-left:500px; */
+    text-align:center;
+  }
+  .Sub-title-radar{
+    font-family: 'PassionOne-Regular', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:70px;
+    margin-bottom:10px;
+    /* margin-left:850px; */
+    text-align:center;
+    margin-top:-200px;
+  }
+  .Sub-title-wordcloud{
+    font-family: 'PassionOne-Regular', sans-serif;
+    color:rgba(46, 28, 10, 0.782);
+    font-size:70px;
+    margin-bottom:10px;
+    /* margin-left:750px; */
+    text-align:center;
+    margin-top:-200px;
+  }
+
+  .Text {
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+    width: 50%;
+    font-family: 'PassionOne-Regular', sans-serif;
+    color: rgba(46, 28, 10, 0.782);
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 350px;
+    text-align: center !important;
+  }
+  
