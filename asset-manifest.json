@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/melodyhuang/static/css/main.0bbe6818.css",
+    "main.js": "/melodyhuang/static/js/main.fe4d5723.js",
+    "static/js/787.bc7d429a.chunk.js": "/melodyhuang/static/js/787.bc7d429a.chunk.js",
+    "static/media/RubikPixels-Regular.ttf": "/melodyhuang/static/media/RubikPixels-Regular.d09ba50521b1be4c70b4.ttf",
+    "static/media/interview.jpg": "/melodyhuang/static/media/interview.7cc9f56912bc7ff2036f.jpg",
+    "static/media/Lobster-Regular.ttf": "/melodyhuang/static/media/Lobster-Regular.03c38496322925fec242.ttf",
+    "static/media/TiltPrism-Regular.ttf": "/melodyhuang/static/media/TiltPrism-Regular.387a204b45e4178f91b1.ttf",
+    "static/media/Anton-Regular.ttf": "/melodyhuang/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/LibreBaskerville-Bold.ttf": "/melodyhuang/static/media/LibreBaskerville-Bold.6e5f70731aeed7c6e895.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/melodyhuang/static/media/LibreBaskerville-Regular.715e9cea90f54d5a4093.ttf",
+    "static/media/CracklingFire.ttf": "/melodyhuang/static/media/CracklingFire.9dac96a10eab13970269.ttf",
+    "static/media/presentation.jpg": "/melodyhuang/static/media/presentation.e1368269094c09ed6986.jpg",
+    "static/media/wallpaper.jpg": "/melodyhuang/static/media/wallpaper.a4911f9c0a76d95b1146.jpg",
+    "static/media/PassionOne-Regular.ttf": "/melodyhuang/static/media/PassionOne-Regular.9c9b8a782e5c499ad7cb.ttf",
+    "static/media/PassionOne-Bold.ttf": "/melodyhuang/static/media/PassionOne-Bold.6cbab5ccd7e564c52036.ttf",
+    "index.html": "/melodyhuang/index.html",
+    "main.0bbe6818.css.map": "/melodyhuang/static/css/main.0bbe6818.css.map",
+    "main.fe4d5723.js.map": "/melodyhuang/static/js/main.fe4d5723.js.map",
+    "787.bc7d429a.chunk.js.map": "/melodyhuang/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbe6818.css",
+    "static/js/main.fe4d5723.js"
+  ]
+}
